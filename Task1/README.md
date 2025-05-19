@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple E-commerce Store
 
 A fully functional e-commerce web application with product listings, shopping cart, and order management. Built with Express.js backend, SQLite database, and vanilla HTML/CSS/JavaScript frontend.
@@ -211,3 +212,6 @@ MIT License - feel free to use and modify for your projects!
 ## Contributing
 
 This is a demo project, but suggestions and improvements are welcome!
+=======
+# CodeAlpha-1
+>>>>>>> 7c7621e23fbf491c3f6cc894518131754b324499
